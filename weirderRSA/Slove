@@ -1,0 +1,6 @@
+we also know d*e = 1 (mod p-1)
+=> dp*e = 1 (mod p-1) because e small than p-1
+=> dp*e = (p-1)*k+1
+=> p = (dp*e-1)/k+1
+because dp < p-1 => k < e
+we can brute force find p.
