@@ -15,6 +15,7 @@ g = 4189907057051749069212614323485725660347707200547680164474586562789395867582
 We know A = pow(g,a,p) and a is random in range(1, 2^46)
 it would compute the DLP using sagemath
 
-using encryptshell.sage we have a = 33657892424673
+using encryptshell.sage with command line: sage encryptshell.sage
+we have a = 33657892424673
 
 when we have value of a something will be easy...
