@@ -1,2 +1,2 @@
 # picoctf2017
-all writeup we connect from internet.
+all writeup we collect from internet.
